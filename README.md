@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/litriggy?pet-id=654154996632903606"
+    width="600"
+    height="120"
+  />
+</a>
+[Image]: https://render.gitanimals.org/lines/litriggy?pet-id=654154996632903606
 <!--
 **litriggy/litriggy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
